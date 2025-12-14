@@ -1,0 +1,25 @@
+{
+  "theme": "cyber-hacker",
+  "colors": {
+    "background": "#010409",
+    "text": "#e6edf3",
+    "accent": "#39ff14",
+    "secondary": "#ff7b72"
+  },
+  "fonts": {
+    "primary": "monospace",
+    "code": "Fira Code"
+  },
+  "layout": {
+    "align": "center",
+    "sectionSpacing": "large"
+  },
+  "effects": {
+    "glowAccent": true,
+    "emojiStyle": "tech"
+  },
+  "stats": {
+    "githubStatsTheme": "github_dark",
+    "showLanguages": true
+  }
+}
