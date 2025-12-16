@@ -1,0 +1,20 @@
+import React from 'react';
+import Hero from '@/components/portfolio/Hero';
+import SnakeGame from '@/components/games/SnakeGame';
+import About from '@/components/portfolio/About';
+import Projects from '@/components/portfolio/Projects';
+import Certificates from '@/components/portfolio/Certificates';
+import Contact from '@/components/portfolio/Contact';
+
+export default function Home() {
+  return (
+    <div className="flex flex-col">
+      <Hero />
+      <SnakeGame />
+      <About />
+      <Projects />
+      <Certificates />
+      <Contact />
+    </div>
+  );
+}
